@@ -1,1 +1,1 @@
-Solutions to [TLX TOKI Courses](https://tlx.toki.id/courses) Problems in Go
+Solutions to [TLX TOKI Courses](https://tlx.toki.id/courses) Problems in Go. There will be no other commit, just realize that Go is much slower than c++ hence not suitable for competitive programming. Or I may doing it in a wrong way--by not using concurrencies.
